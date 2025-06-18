@@ -1,3 +1,5 @@
 /target
+/input/mnist_test.csv
+/input/mnist_train.csv
 
 .DS_Store
