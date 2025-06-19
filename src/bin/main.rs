@@ -143,7 +143,7 @@ pub fn draw_menu(game_state: &mut i32) {
         center_y + spacing / 2.0,
         button_width,
         button_height,
-        "RL Agent"
+        "AI"
     );
     
     let title = "Select Player";
