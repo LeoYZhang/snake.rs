@@ -60,4 +60,7 @@ The project includes a complete implementation of the Snake game, which acts as 
 ### 5. Final Result
 
 <br>
-<img src="snake_ai_demo.gif" alt="Snake AI Demo" width="500"/>
+
+<p align="center">
+    <img src="snake_ai_demo.gif" alt="Snake AI Demo" width="500"/>
+</p>
