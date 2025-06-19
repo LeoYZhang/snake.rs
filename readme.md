@@ -59,6 +59,4 @@ The project includes a complete implementation of the Snake game, which acts as 
 
 ### 5. Final Result
 
-<video width="320" height="240" controls>
-  <source src="snake_ai_demo.mp4" type="video/mp4">
-</video>
+<video src='snake_ai_demo.mp4' width=300/>
